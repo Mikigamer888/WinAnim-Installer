@@ -13,3 +13,6 @@ Using an app called [Bat To Exe Converter](https://github.com/l-urk/Bat-To-Exe-C
 - Provides a manual browser download fallback for legacy systems.
 - Uses curl and PowerShell with TLS 1.2 for modern systems.
 - Makes sharing on Discord easier.
+
+## WinAnim
+For WinAnim's source code click [here](https://github.com/Mikigamer888/WinAnim)
